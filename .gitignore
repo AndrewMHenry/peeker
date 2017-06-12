@@ -5,3 +5,4 @@ peeker/__pycache__/*
 pip-selfcheck.json
 share/
 test/__pycache__/*
+*~
