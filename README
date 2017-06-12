@@ -1,0 +1,5 @@
+INTRODUCTION....................................................................
+
+In writing parsers for simple languages, I have found it useful to have an
+interface into a general iterable that allows "peeking" without consuming.
+The peeker module provides this interface.
